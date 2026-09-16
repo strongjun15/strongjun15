@@ -9,9 +9,10 @@
 ## About Me
 
 Student at **Gyeonggibuk Science High School, South Korea**<br>
-Every day I'm just going with the flow... (ง ᵕᴗᵕ)ว
+Every day I'm just going with the flow...<br>
+(ง ᵕᴗᵕ)ว
 
-## Problem Solving
+## What I love to do
 
 I love spending hours on a single hard algorithm problem until it finally clicks.
 
