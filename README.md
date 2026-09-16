@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1800&color=58A6FF&center=true&vCenter=true&width=800&height=70&lines=while(true)+%7B+step_forward()%3B+%7D" alt="𝚠𝚑𝚒𝚕𝚎(𝚝𝚛𝚞𝚎) { 𝚜𝚝𝚎𝚙_𝚏𝚘𝚛𝚠𝚊𝚛𝚍(); }" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1800&color=58A6FF&center=true&vCenter=true&width=800&height=70&lines=while(true)+%7B+step_forward()%3B+%7D" alt="𝚠𝚑𝚒𝚕𝚎(𝚝𝚛𝚞𝚎) {𝚜𝚝𝚎𝚙_𝚏𝚘𝚛𝚠𝚊𝚛𝚍();}" />
 
 # Hi, I'm Lumos 👋
 
