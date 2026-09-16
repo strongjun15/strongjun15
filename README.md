@@ -6,7 +6,7 @@
 
 ## About Me
 
-Student at **Gyeonggibuk Science High School, South Korea**<br>
+Student at **Gyeonggibuk Science High School**, South Korea<br>
 Every day I'm just going with the flow...<br>
 (ง ᵕᴗᵕ)ว
 
