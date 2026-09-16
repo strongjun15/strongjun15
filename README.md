@@ -1,12 +1,10 @@
 <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1800&color=58A6FF&center=true&vCenter=true&width=700&height=70&separator=%7C&lines=while(true)+%7B+step_forward()%3B+%7D" alt="𝚠𝚑𝚒𝚕𝚎(𝚝𝚛𝚞𝚎) { 𝚜𝚝𝚎𝚙_𝚏𝚘𝚛𝚠𝚊𝚛𝚍(); }" />
 
-# Hi, I'm Lumos 👋
-
 </div>
 
 ## About Me
 
-Student at **Gyeonggibuk Science High School**, South Korea<br>
+Hi, I'm Lumos, a student at **Gyeonggibuk Science High School**, South Korea<br>
 Every day I'm just going with the flow...<br>
 (ง ᵕᴗᵕ)ว
 
