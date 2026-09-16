@@ -8,7 +8,9 @@
 
 ## About Me
 
-Student at **Gyeonggibuk Science High School (GBSHS)**.
+Student at **Gyeonggibuk Science High School, South Korea**
+Everyday I'm just going with the flow... 
+(ง ᵕᴗᵕ)ว
 
 ## Problem Solving
 
