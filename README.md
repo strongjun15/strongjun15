@@ -14,6 +14,7 @@ Every day I'm just going with the flow...<br>
 
 ## What I love to do
 
+C++ PS &nbsp;·&nbsp; Basketball &nbsp;·&nbsp; Short Track &nbsp;·&nbsp; Formula 1 &nbsp;·&nbsp; Classical Mechanics<br>
 I love spending hours on a single hard algorithm problem until it finally clicks.
 
 ## Tech Stack
@@ -35,10 +36,6 @@ I love spending hours on a single hard algorithm problem until it finally clicks
     </td>
   </tr>
 </table>
-
-## Beyond the Code
-
-Basketball &nbsp;·&nbsp; Short Track &nbsp;·&nbsp; Formula 1 &nbsp;·&nbsp; Classical Mechanics
 
 <div align="center">
 
