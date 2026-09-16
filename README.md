@@ -8,7 +8,7 @@
 
 Hi, I'm Lumos 👋<br>
 I'm a student at Gyeonggibuk Science High School, South Korea<br>
-Every day I'm just going with the flow...<br>
+Just living life as it goes...<br>
 (ง ᵕᴗᵕ)ว
 
 ## What I love
