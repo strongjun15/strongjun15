@@ -2,6 +2,8 @@
 
 <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1800&color=58A6FF&center=true&vCenter=true&width=700&height=70&separator=%7C&lines=while(true)+%7B+step_forward()%3B+%7D" alt="𝚠𝚑𝚒𝚕𝚎(𝚝𝚛𝚞𝚎) { 𝚜𝚝𝚎𝚙_𝚏𝚘𝚛𝚠𝚊𝚛𝚍(); }" />
 
+<sub><i>No <code>break</code> statement. Just one more step, every single day.</i></sub>
+
 # Hi, I'm Lumos 👋
 
 </div>
