@@ -13,7 +13,7 @@ Just living life as it goes...<br>
 
 ## What I love
 
-C++ PS &nbsp;·&nbsp; Classical Mechanics &nbsp;·&nbsp; Basketball &nbsp;·&nbsp; Short Track &nbsp;·&nbsp; Watching Formula 1<br>
+C++ PS &nbsp;·&nbsp; Mechanics &nbsp;·&nbsp; Basketball &nbsp;·&nbsp; Short Track &nbsp;·&nbsp; Watching Formula 1<br>
 I love spending hours on a single hard algorithm problem until it finally clicks.
 
 ## Tech Stack
