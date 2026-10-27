@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hi, I'm Lumos 👋<br>
+Hi, I'm Lumos
 I'm a student at Gyeonggibuk Science High School, South Korea<br>
 Just living life as it goes...<br>
 (ง ᵕᴗᵕ)ว
